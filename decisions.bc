@@ -1,0 +1,5 @@
+set temperature = 28
+when temperature >= 30:
+    show "It is hot"
+otherwise:
+    show "A comfortable day"

@@ -1,0 +1,3 @@
+show "Welcome to ByteCraft!"
+set language = "small but mighty"
+show language

@@ -1,0 +1,5 @@
+set countdown = 3
+repeat while countdown > 0:
+    show countdown
+    set countdown = countdown - 1
+show "Go!"
